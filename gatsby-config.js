@@ -1,10 +1,10 @@
 module.exports = {
-  pathPrefix: '/gatsby-starter-level-2',
+  pathPrefix: '/fm-neog',
   siteMetadata: {
-    title: 'Level 2',
+    title: 'fm-neog',
     titleTemplate: '%s · Level 2',
     image: '/images/logo.png',
-    author: 'Max Mustermann',
+    author: 'Neogrammers',
     description: 'Gatsby starter to quickly setup your portfolio and boost it to the next level.',
     url: 'https://knochenmark.github.io',
     paginationPageSize: 4, // Amount of posts displayed per listing page.

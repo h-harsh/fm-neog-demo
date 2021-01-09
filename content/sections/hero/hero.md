@@ -1,6 +1,6 @@
 ---
-introduction: "hey it's me"
-tagline: 'Design. Code. Experiment'
+introduction: "It's us"
+tagline: 'A radio for neog devs'
 cta_label: 'View Documentation'
 cta_link: 'https://github.com/Knochenmark/gatsby-starter-level-2/blob/master/README.md'
 ---

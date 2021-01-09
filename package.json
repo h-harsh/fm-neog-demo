@@ -1,10 +1,10 @@
 {
-  "homepage": "https://knochenmark.github.io/gatsby-starter-level-2/",
-  "name": "gatsby-starter-level-2",
+  "homepage": "https://fm-neog-demo.netlify.app/",
+  "name": "fm-neog-demo-codesandbox",
   "private": true,
-  "description": "A minimalistic starter to quickly set up and configure your portfolio with Gatsby",
+  "description": "",
   "version": "0.1.0",
-  "author": "Knochenmark",
+  "author": "Neogrammers",
   "scripts": {
     "deploy": "gatsby build --prefix-paths",
     "build": "gatsby build",
@@ -47,18 +47,13 @@
     "eslint-plugin-react": "^7.21.5",
     "prettier": "^2.2.1"
   },
-  "keywords": [
-    "gatsby",
-    "starter",
-    "portfolio",
-    "blog"
-  ],
+  "keywords": [],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/knochenmark/gatsby-starter-level-2"
+    "url": "https://github.com/prerana1821/fm-neog-demo"
   },
   "bugs": {
-    "url": "https://github.com/knochenmark/gatsby-starter-level-2/issues"
+    "url": "https://github.com/prerana1821/fm-neog-demo/issues"
   }
 }

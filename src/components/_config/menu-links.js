@@ -5,13 +5,13 @@ export const indexMenuLinks = [
     icon: 'user-tie',
   },
   {
-    name: 'Projects',
-    link: '/#projects',
+    name: 'Episodes',
+    link: '/#episodes',
     icon: 'terminal',
   },
   {
     name: 'Blog',
-    link: '/#blog',
+    link: '/#blogs',
     icon: 'feather-alt',
   },
   {

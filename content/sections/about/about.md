@@ -1,7 +1,7 @@
 ---
-title: 'The Gatsby starter that makes developer dreams come true!'
+title: 'For neogrammers, by neogrammers'
 about_image: './me.jpg'
-techs: ['Gatsby', 'Javascript', 'React', 'GraphQL', 'Emotion', 'Stylus']
+techs: ['neogcamp', 'tanaypratap', 'React', 'fm.neog', 'neogrammers', 'podcast']
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas sit amet arcu tincidunt fermentum. Mauris ac nisl nibh. Etiam nunc eros, blandit vel eros laoreet, accumsan lacinia turpis.

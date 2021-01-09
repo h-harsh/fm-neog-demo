@@ -7,7 +7,7 @@ export const StyledH1 = styled.h1`
   margin: 20px 0;
 
   &:first-letter {
-    color: var(--primary-color);
+    color: var(--title-color);
   }
 
   &:after {

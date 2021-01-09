@@ -37,7 +37,7 @@ const StyledFactNumber = styled.section`
       left: -2rem;
       width: 1rem;
       height: 2px;
-      background-color: var(--primary-color);
+      background-color: var(--bg-content-color);
     }
   }
 `;
@@ -49,15 +49,15 @@ const Facts = () => {
       <StyledLogoSection>
         <StyledFactNumber>
           <span className="number">127</span>
-          <span className="fact">Finished Projects</span>
+          <span className="fact">Episodes</span>
         </StyledFactNumber>
         <StyledFactNumber>
           <span className="number">321</span>
-          <span className="fact">Happy Customers</span>
+          <span className="fact">Views</span>
         </StyledFactNumber>
         <StyledFactNumber>
           <span className="number">863</span>
-          <span className="fact">Freelancing Hours</span>
+          <span className="fact">Lorem Ipsum</span>
         </StyledFactNumber>
       </StyledLogoSection>
     </StyledSkewedSection>

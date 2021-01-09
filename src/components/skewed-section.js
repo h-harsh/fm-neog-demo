@@ -30,7 +30,7 @@ const StyledSkewedSection = styled.section`
     transform-origin: 50% 0;
     outline: 1px solid transparent;
     backface-visibility: hidden;
-    background-color: var(--bg-content-color);
+    background-color: var(--primary-color);
   }
 `;
 
