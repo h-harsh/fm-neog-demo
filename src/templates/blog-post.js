@@ -50,7 +50,7 @@ const BlogPost = ({ data }) => {
         </StyledDate>
         <TagList tags={tags} />
         {coverImage && <Img fluid={coverImage} />}
-        <StyledBlogText dangerouslySetInnerHTML={{ __html: post.html }} />
+        {/* <StyledBlogText dangerouslySetInnerHTML={{ __html: post.html }} /> */}
       </StyledBlogSection>
     </Layout>
   );

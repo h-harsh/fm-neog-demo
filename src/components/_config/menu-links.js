@@ -10,7 +10,7 @@ export const indexMenuLinks = [
     icon: 'terminal',
   },
   {
-    name: 'Blog',
+    name: 'Bulletins',
     link: '/#blogs',
     icon: 'feather-alt',
   },
@@ -28,7 +28,7 @@ export const blogMenuLinks = [
     icon: 'code',
   },
   {
-    name: 'Blog',
+    name: 'Bulletins',
     link: '/blog',
     icon: 'feather-alt',
   },
