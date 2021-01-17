@@ -1,5 +1,5 @@
 ---
-phone: 'https://www.linkedin.com/company/neog-camp/about/'
+phone: 'neoG Camp'
 email: 'neogcamp@gmail.com'
 address: 'India'
 ---

@@ -26,6 +26,5 @@ cards:
     description: Let's face it, cracking interviews is a different ball game altogether and our podcasts will feature tips and tricks from students who've cracked them.
 ---
 
-Usually people who advice us have completely had another journey altogether or have no experience in the field. So, fm.neog presents a platform for students who have been through that relatable journey to share their experiences, anecdots, tricks of the trade. In order to help, inspire fellow neogrammers to hustle and reach their goal.
-We bring to you a podcast from students for students.
+Usually people who advice us have completely had another journey altogether or have no experience in the field. So, fm.neog presents a platform for students who have been through that relatable journey to share their experiences, anecdots, tricks of the trade. In order to help, inspire fellow neogrammers to hustle and reach their goal. We bring to you a podcast from students for students.
 Our fm has these highlight features

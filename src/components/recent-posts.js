@@ -19,7 +19,7 @@ const StyledPostsContainer = styled.article`
   margin-top: 2.5rem;
 
   ${mq.gt.xs} {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 `;
 const StyledPostContainer = styled.article`
@@ -93,12 +93,12 @@ const RecentPosts = ({ data }) => {
           <StyledImageContainer>{coverImage && <Img fluid={coverImage} />}</StyledImageContainer>
         </Link>
         <TagList tags={tags} />
-        <StyledTitleLink to={link}>
+        {/* <StyledTitleLink to={link}>
           <StyledH2>{title}</StyledH2>
         </StyledTitleLink>
         <StyledPostText>
           <p>{description}</p>
-        </StyledPostText>
+        </StyledPostText> */}
       </StyledPostContainer>
     );
   });
