@@ -5,9 +5,9 @@ export const socialIconList = [
     link: 'https://twitter.com/neogcamp',
   },
   {
-    name: 'linkedin',
+    name: 'instagram',
     prefix: 'fab',
-    link: 'https://www.linkedin.com/company/neog-camp/about/',
+    link: 'https://www.instagram.com/neogcamp/',
   },
   {
     name: 'external-link-alt',

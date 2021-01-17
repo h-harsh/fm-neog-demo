@@ -45,19 +45,19 @@ const StyledFactNumber = styled.section`
 const Facts = () => {
   return (
     <StyledSkewedSection angle={10}>
-      <StyledH1>Some Interesting Facts</StyledH1>
+      <StyledH1>Meet Our Community!</StyledH1>
       <StyledLogoSection>
         <StyledFactNumber>
-          <span className="number">127</span>
-          <span className="fact">Episodes</span>
+          <span className="number">5k+</span>
+          <span className="fact">Discord Members</span>
         </StyledFactNumber>
         <StyledFactNumber>
-          <span className="number">321</span>
-          <span className="fact">Views</span>
+          <span className="number">20k+</span>
+          <span className="fact">Web Community</span>
         </StyledFactNumber>
         <StyledFactNumber>
-          <span className="number">863</span>
-          <span className="fact">Lorem Ipsum</span>
+          <span className="number">15k</span>
+          <span className="fact">Learners</span>
         </StyledFactNumber>
       </StyledLogoSection>
     </StyledSkewedSection>

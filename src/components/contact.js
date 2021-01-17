@@ -89,7 +89,7 @@ const Contact = ({ data }) => {
             <StyledContainer>
               <Icon icon="mobile-alt" />
               <StyledFormContainer>
-                <StyledForm>Phone Number</StyledForm>
+                <StyledForm>LinkedIn</StyledForm>
                 <span>{phone}</span>
               </StyledFormContainer>
             </StyledContainer>

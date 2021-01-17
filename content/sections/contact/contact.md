@@ -1,7 +1,7 @@
 ---
-phone: '+49 1234 5678910'
+phone: 'https://www.linkedin.com/company/neog-camp/about/'
 email: 'neogcamp@gmail.com'
 address: 'India'
 ---
 
-We would love to hear from you. Send us your feedback, doubts or queries at [Link](https://github.com/Knochenmark/gatsby-starter-level-2/issues). We believe in the age old adage 'we grow by helping others grow' and that is the sole aim of this podcast initiative.
+We would love to hear from you. Send us your questions which you would like to be answered by our guests. If you would like to be featured in our podcast, reach out to us at [here](https://docs.google.com/forms/d/e/1FAIpQLSfrUOw7tY13kxHfzJnBjMyfSQvRoWMvgBU4LANKu5bRlEZotw/viewform)
