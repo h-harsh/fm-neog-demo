@@ -11,7 +11,7 @@ export const StyledH1 = styled.h1`
   }
 
   &:after {
-    background-color: var(--primary-color);
+    background-color: var(--bg-color);
     content: '';
     position: absolute;
     top: -30px;

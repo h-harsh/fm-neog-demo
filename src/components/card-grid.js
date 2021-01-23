@@ -24,7 +24,7 @@ const StyledFeatureGridContainer = styled.section`
   }
 `;
 const StyledFeatureCard = styled.article`
-  border: 1px solid var(--body-color);
+  border: 1px solid var(--primary-color);
   border-radius: var(--radius);
 
   display: flex;
