@@ -13,13 +13,15 @@ import { contentBox, flexCenter, flexEnd } from './_shared/styled-mixins';
 import { StyledSection } from './_shared/styled-section';
 
 const StyledFeaturedProject = styled.article`
-  display: grid;
+  /* display: grid; */
   grid-template-columns: repeat(1, 1fr);
   grid-gap: 2.5rem;
-  padding: 2.5rem 0;
+  padding-left: 0;
+  /* padding: 2.5rem 0; */
 
   ${mq.gt.sm} {
     grid-template-columns: repeat(2, 1fr);
+    padding-left: 4rem;
   }
   &:nth-of-type(even) {
     direction: rtl;
@@ -83,7 +85,7 @@ const FeaturedProjects = ({ featured }) => {
 
     return (
       <StyledFeaturedProject key={title + index}>
-        <a
+        {/* <a
           aria-label={demoLink ? demoLinkLabel : repoLink ? repoLinkLabel : `featured project ${title}`}
           href={demoLink ? demoLink : repoLink ? repoLink : '#'}
           target="_blank"
@@ -94,7 +96,7 @@ const FeaturedProjects = ({ featured }) => {
               <Img fluid={coverImage} />
             </StyledImageContainer>
           )}
-        </a>
+        </a> */}
         <StyledProjectInfoContainer>
           <StyledContentLink href={demoLink ? demoLink : repoLink ? repoLink : '#'} target="_blank" rel="noopener">
             <StyledH2>{title}</StyledH2>

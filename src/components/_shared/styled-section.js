@@ -7,9 +7,9 @@ export const StyledSection = styled.section`
   flex-direction: column;
   margin: 0 auto;
   width: 90%;
-  padding: 30px 0;
+  padding: 20px 0;
   max-width: 1000px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 `;
 
 export const StyledFullHeightSection = styled(StyledSection)`

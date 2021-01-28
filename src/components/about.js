@@ -14,7 +14,7 @@ const StyledAboutContainer = styled.article`
   padding: 2.5rem 0;
 
   ${mq.gt.sm} {
-    grid-template-columns: repeat(2, 1fr);
+    /* grid-template-columns: repeat(2, 1fr); */
   }
 `;
 const StyledTextSection = styled.section`
@@ -33,11 +33,11 @@ const About = ({ data }) => {
     <StyledSection id="about">
       <StyledH1>About Us</StyledH1>
       <StyledAboutContainer>
-        {image && (
+        {/* {image && (
           <StyledStaticImageContainer>
             <Img fluid={image} objectFit="contain" />
           </StyledStaticImageContainer>
-        )}
+        )} */}
         <div>
           <StyledH2>{title}</StyledH2>
           <StyledTextSection dangerouslySetInnerHTML={{ __html: html }} />
