@@ -121,7 +121,7 @@ const FeaturedProjects = ({ featured }) => {
   });
 
   return (
-    <StyledSection id="projects">
+    <StyledSection id="episodes">
       <StyledH1>Episodes</StyledH1>
       {featuredProjects}
       <StyledArchiveContainer>
